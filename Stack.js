@@ -2,30 +2,7 @@ class Stack {
     constructor() {
         this.items = []
     }
-    // push takes in an input item and adds it to the top of the stack
-    push(item) {
-        this.items.push(item)
-    }
-    // pop removes the top item from the stack and returns it
-    pop() {
-        return this.items.pop()
-    }
-    // isEmpty returns true if stack is empty, or false otherwise
-    isEmpty() {
-        // if(this.items.length === 0) {
-        //     return true
-        // } else {
-        //     return false
-        // }
-
-        // return this.items.length ? false : true
-        
-        return this.items.length === 0
-    }
-    // peek returns the top item in the stack without removing it
-    peek() {
-        return this.items[this.items.length - 1]
-    }
+    // your code here...
 }
 
 // Test Code

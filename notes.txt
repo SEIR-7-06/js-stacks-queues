@@ -1,0 +1,31 @@
+Computer Science Topics:
+Data Structures & Algorithms
+
+🍎 Algorithms:
+A procedure for solving computational problems
+
+🍎 Data Structures:
+The various ways in which we can organize data in computer systems.
+
+⛓️ Stacks & Queues Lesson
+
+JS data structures:
+Objects {} - store things in key-value pairs
+Arrays [] - store things in an ordered sequence
+
+Examples of some Data Structures
+Stacks - Call stack
+Queues
+Hash Tables - caching, indexing
+Trees Tries - Text auto-complete
+Graphs - Machine Learning, Google maps
+
+Apply the right tool for the job ^^
+
+
+Strengths of Stack & Queue (Compared to regular old arrays)
+* Instant insertion & deletion
+
+Weakness
+* Can only access the top/front item
+
