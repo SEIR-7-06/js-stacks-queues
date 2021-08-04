@@ -25,7 +25,7 @@ if(myStack.items[0] === 'A' && myStack.items[1] === 'B' && myStack.items[2] === 
     console.log('🚫 Test Fails: Items are not in correct order')
 }
 
-console.log('\n⛓️ Test #3: Is stack not empty after having pushed several items?')
+console.log('\n⛓️ Test #3: Is stack not empty after push? isEmpty() should return false.')
 if(myStack.isEmpty() === false) {
     console.log('✅️ Test Passes: isEmpty returns false')
 } else {
