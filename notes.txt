@@ -1,0 +1,26 @@
+Computer Science Topics:
+Data Structures & Algorithms
+
+🍎 Algorithms
+The procedure for solving computational problems
+(with the eventual goal of writing *efficient* code)
+
+🍏 Data Structures
+The ways in which we as programmers can *organize* data 
+in computer systems.
+
+JS data structures:
+Arrays [] - store items in an ordered sequence
+Objects {} - store items in key-value pairs
+
+
+⛓️ Stack & Queues Lesson
+
+Stack: LIFO (Last in First out)
+Queue: FIFO (First in First out)
+
+Strengths of Stacks & Queues (compared to regular arrays)
+* Instant insertion & deletion - O(1)
+
+Weakness
+* You can only access the top item / the front item
